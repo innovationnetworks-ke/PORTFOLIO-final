@@ -61,6 +61,7 @@
     "cypress": "^3.5.0",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-root-import": "^2.0.5",
+    "gh-pages": "^3.2.3",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.9.0",
     "prettier": "^1.18.2",
@@ -72,6 +73,7 @@
   ],
   "license": "MIT",
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "preinstall": "cd plugins/gatsby-plugin-social-banners && npm install",
     "now-build": "npm run build",
     "build": "gatsby build",

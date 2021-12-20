@@ -2,6 +2,7 @@ const path = require('path');
 const config = require('./config/website');
 
 module.exports = {
+  pathPrefix:"/PORTFOLIO-final",
   siteMetadata: {
     title: config.siteTitle,
     description: config.siteDescription,
