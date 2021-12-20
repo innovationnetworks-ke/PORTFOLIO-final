@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Assignment Website",
+    "links": {
+      "src": "https://github.com/innovationnetworks-ke/assignment_website"
+    },
+    "description": "User friendly assignment resources and expert linking website"
+  },
+  {
+    "title": "Library System",
+    "links": {
+      "src": "https://github.com/innovationnetworks-ke/Library_system"
+    },
+    "description": "School library management system"
+  },
+  {
+    "title": "Furniture system",
+    "links": {
+      "src": "https://github.com/innovationnetworks-ke/furniture_system"
+    },
+    "description": "Wood word furniture shop."
+  },
+  {
+    "title": "Prime",
+    "links": {
+      "demo": "https://github.com/innovationnetworks-ke/online",
+      "src": "https://github.com/innovationnetworks-ke/online"
+    },
+    "description": "Site for service advertisement."
+  }
+]
