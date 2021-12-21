@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /goodies
+Sitemap: https://innovationnetworks.github.io/sitemap.xml
+Host: https://innovationnetworks.github.io
