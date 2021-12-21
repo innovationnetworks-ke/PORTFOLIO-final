@@ -2,7 +2,7 @@
 title: Innovation Networks
 excerpt: Software development and networking company
 
-iframe: //www.youtube.com/embed/10sL4z9BHNE/?modestbranding=1&showinfo=0&autohide=1&rel=0
+iframe: //https://www.youtube.com/embed/
 demo: //https://github.com/innovationnetworks-ke/PORTFOLIO-final
 src: //https://github.com/innovationnetworks-ke/PORTFOLIO-final
 
