@@ -31,7 +31,7 @@ function copyToClipboard(str) {
 }
 
 export const CodeCard = () => {
-  const [text, setText] = useState(`new Date().getFullYear() - 2001;`);
+  const [text, setText] = useState(`new Date().getFullYear() - 1997;`);
   const age = new Date().getFullYear() - 1998;
   // trimed down polyfill of String.repeat
   const changeText = () => {

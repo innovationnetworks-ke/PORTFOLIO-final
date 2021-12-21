@@ -30,7 +30,7 @@ const ThingsILove = () => (
       </CardIcon>
       <CardTitle>System Design</CardTitle>
       <CardText>
-        Proffesional software designer with eye catching software designs.
+        Proffesional system designer with eye catching software designs.
       </CardText>
     </Card>
 

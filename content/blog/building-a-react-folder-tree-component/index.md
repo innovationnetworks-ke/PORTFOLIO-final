@@ -394,7 +394,7 @@ Now for those who are looking for some more fun try to implement these features 
 
 #### Foot notes
 
-- Check out my [react-folder-tree](https://github.com/anuraghazra/react-folder-tree) component with full CRUD support.
+- Check out my [react-folder-tree](https://github.com/innovationnetworks-ke/react-folder-tree) component with full CRUD support.
 - CodeSandbox [Link for Declerative API](https://codesandbox.io/s/react-tree-component-p1-dzrxk) 
 - CodeSandbox [Link for Imperative API](https://codesandbox.io/s/react-tree-component-p2-ngoqe)  
 - [A quick intro to React’s props.children](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)  
